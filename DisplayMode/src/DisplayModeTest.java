@@ -127,7 +127,6 @@ public class DisplayModeTest extends JFrame implements ActionListener,
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	@SuppressWarnings("unused")
 	private boolean waiting = false;
     private GraphicsDevice device;
     private DisplayMode originalDM;
